@@ -2,13 +2,13 @@
 
 Este projeto realiza uma análise exploratória dos preços de gasolina utilizando Python e a biblioteca pandas. O objetivo é interpretar os dados e gerar insights por meio de estatísticas descritivas e manipulação de dados.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas : 
 
 Python
 
-Pandas: Manipulação e análise de dados.
+Pandas : Manipulação e análise de dados.
 
-Funcionalidades
+Funcionalidades : 
 
 Leitura e tratamento de dados sobre preços de gasolina.
 
