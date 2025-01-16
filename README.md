@@ -7,11 +7,3 @@ Tecnologias Utilizadas :
 Python
 
 Pandas : Manipulação e análise de dados.
-
-Funcionalidades : 
-
-Leitura e tratamento de dados sobre preços de gasolina.
-
-Cálculo de médias, valores máximos e mínimos.
-
-Organização dos dados para melhor visualização e compreensão.
